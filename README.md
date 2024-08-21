@@ -1,2 +1,2 @@
 # 3Bi-Atitudinal-PDM
-Daniel Savala Lhoretti; Dyuliano Luis; Davi Samuel
+Daniel Savala Lhoretti; Davi Samuel; Dyuliano Luis
